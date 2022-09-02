@@ -1,1 +1,1 @@
-task 3 readme
+display the content list of your current directory on a long format
