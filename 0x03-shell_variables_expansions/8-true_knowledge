@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$((TRUEKNOLWEDGE+=128))"
+echo $((TRUEKNOLWEDGE+=128))
